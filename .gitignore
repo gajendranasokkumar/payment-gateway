@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+
+# TypeScript
+dist/
+*.tsbuildinfo
+
+# Environment files
+.env
+
+# Logs
+*.log
+
+# VS Code settings
+.vscode/
+
+# npm package lock file
+package-lock.json
+
+# MacOS files
+.DS_Store
